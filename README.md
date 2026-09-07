@@ -281,7 +281,7 @@ After completing this project, you will understand:
 
 # 👨‍💻 Author
 
-**Suraj Singh**
+**Mrudula Nara**
 
 DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins | Python
 
